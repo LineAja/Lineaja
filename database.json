@@ -1,0 +1,13 @@
+{
+  "allowedIps": ["0.0.0.0", "0.0.0"],
+  "users": [
+    {
+      "username": "lineaja",
+      "password": "line123"
+    },
+    {
+      "username": "gita",
+      "password": "gita123"
+    }
+  ]
+}
